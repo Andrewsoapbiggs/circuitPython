@@ -13,8 +13,6 @@ This is all about my learnings with Circuit Python and metro express
     (                                                      \                        
     
   _.'`.  _                                                  L                       
- 
-
 .'/| "" """"._                                            |
   
      |          \             |                             J
